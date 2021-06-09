@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: rosybrown;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.baby-girl {
+    width:400px;
+    clip-path: circle();
+}
